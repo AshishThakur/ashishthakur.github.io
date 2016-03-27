@@ -10,9 +10,9 @@ Typically in my spare time I try to explore/hack elasticsearch or lucene. Workin
 
 This blog is an attempt to share the knowledge I gain through various resources on Information Retrieval, and to be honest I just needed another reason to play around with [Jekyll][jekyll-gh] as well ;).
 
-Hope you to share something meaningful.
+Hoping to share something meaningful.
 
 a_thakur
 
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[es-guide]:    https://www.elastic.co/guide/en/elasticsearch/guide/master/index.html 
+[es-guide]:    https://www.elastic.co/guide/en/elasticsearch/guide/master/index.html
