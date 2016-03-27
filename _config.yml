@@ -8,8 +8,7 @@
 # Site settings
 title: Metatext
 description: > # this means to ignore newlines until "baseurl:"
-  Just another blog for Information Retrieval, Text Retrieval,
-  Lucene, Elasticsearch and Solr.
+  Just another blog on Information Retrieval, Lucene, Elasticsearch & Solr.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: ashish_thakur
